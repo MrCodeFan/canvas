@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoAP Lab4", "FoAP Lab4\FoAP Lab1_2.csproj", "{C7AD0E99-A44D-4F7B-8400-4F0DDDA56DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AD0E99-A44D-4F7B-8400-4F0DDDA56DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AD0E99-A44D-4F7B-8400-4F0DDDA56DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AD0E99-A44D-4F7B-8400-4F0DDDA56DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AD0E99-A44D-4F7B-8400-4F0DDDA56DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3B6CD5-09C8-4AEB-ABE6-45D50E4A23C1}
+	EndGlobalSection
+EndGlobal
